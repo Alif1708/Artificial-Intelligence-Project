@@ -51,9 +51,9 @@ Given the trained COVID-19 face mask detector, we’ll proceed to implement two 
 We’ll wrap up the post by looking at the results of applying our face mask detector.
 
 
-There is two-phase COVID-19 face mask detector as shown in Figure 2:
+This is the phases for hand written caharacter recognition as shown in Figure 2:
 
-![Figure 2](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_phases.png)
+![Figure 2](https://github.com/Alif1708/Artificial-Intelligence-Project/blob/main/Phases-of-character-recognition-process.png)
 Figure 2: Phases and individual steps for building a COVID-19 face mask detector with computer vision and deep learning 
 
 In order to train a custom face mask detector, we need to break our project into two distinct phases, each with its own respective sub-steps (as shown by Figure 1 above):
@@ -65,7 +65,7 @@ In order to train a custom face mask detector, we need to break our project into
 We’ll review each of these phases and associated subsets in detail in the remainder of this tutorial, but in the meantime, let’s take a look at the dataset we’ll be using to train our COVID-19 face mask detector.
 
 
-Our COVID-19 hand written caharacter dataset dataset as shown in Figure 3:
+Our COVID-19 hand written caharacter recognition dataset  as shown in Figure 3:
 
 ![Figure 3](https://github.com/Alif1708/Artificial-Intelligence-Project/blob/main/MNIST-dataset-of-handwritten-digits.png)
 
