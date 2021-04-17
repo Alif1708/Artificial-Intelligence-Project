@@ -2,7 +2,7 @@
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Hand Written Recognition
+**Project Title:** Hand Written Character Recognition
 
 **Team Members:** 
 - Muhammad Putra Alif 
@@ -65,9 +65,9 @@ In order to train a custom face mask detector, we need to break our project into
 We’ll review each of these phases and associated subsets in detail in the remainder of this tutorial, but in the meantime, let’s take a look at the dataset we’ll be using to train our COVID-19 face mask detector.
 
 
-Our COVID-19 face mask detection dataset as shown in Figure 3:
+Our COVID-19 hand written caharacter dataset dataset as shown in Figure 3:
 
-![Figure 3](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_dataset.jpg)
+![Figure 3](https://github.com/Alif1708/Artificial-Intelligence-Project/blob/main/MNIST-dataset-of-handwritten-digits.png)
 
 Figure 3: A face mask detection dataset consists of “with mask” and “without mask” images. 
 
