@@ -5,10 +5,10 @@
 **Project Title:** Hand Written Recognition
 
 **Team Members:** 
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- Muhammad Putra Alif 
+- Vishan Menan
+- Cecilia Chong Ching Nee
+- Siew Chung Seng
 
 
 - [ ] **Objectives:**
