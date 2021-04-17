@@ -1,8 +1,8 @@
-# FACE MASK DETECTION USING DEEP LEARNING 
+# HAND WRITTEN CHARACTER RECOGNITION 
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** Hand Written Recognition
 
 **Team Members:** 
 - [insert Member Name]
